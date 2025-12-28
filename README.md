@@ -1,46 +1,46 @@
-Console-Based Expense Tracker (Python)
+📊 Console-Based Expense Tracker (Python)
 
-A simple and efficient Python console application to track daily expenses using CSV file storage. This project helps users record, view, delete, and calculate total expenses through a menu-driven interface.
+A simple Python console application to track daily expenses using CSV file storage. It allows users to add, view, delete, and calculate expenses through a menu-driven interface.
 
-Features
+✨ Features
 
-Add expenses with date, category, description, and amount
+➕ Add expenses with date, category, description, and amount
 
-View all saved expenses in a readable format
+📋 View all saved expenses in a readable format
 
-Delete expenses based on description
+❌ Delete expenses by description
 
-Calculate total expenses dynamically
+🧮 Calculate total expenses automatically
 
-Persistent data storage using CSV files
+💾 Persistent data storage using CSV files
 
-Simple and user-friendly console menu
+🖥️ Simple and user-friendly console interface
 
-Technologies Used
+🛠️ Technologies Used
 
-Python
+🐍 Python
 
-CSV File Handling
+📁 CSV File Handling
 
-OS Module
+⚙️ OS Module
 
-How It Works
+⚙️ How It Works
 
-The program stores expenses in a CSV file (expenses.csv).
+📂 Stores all expenses in expenses.csv
 
-Users interact with a menu to add, view, delete, or calculate expenses.
+🧾 Reads and updates data using file handling
 
-All data is saved permanently and loaded automatically when the program runs again.
+🔁 Runs in a loop until the user chooses to exit
 
-How to Run
+▶️ How to Run
 
-Make sure Python is installed on your system.
+🔽 Clone or download the repository
 
-Clone this repository or download the source code.
+🧑‍💻 Open terminal/command prompt
 
-Run the program using:
+▶️ Run the program:
 
 python expense_tracker.py
 
 
-Follow the on-screen menu instructions.
+📌 Follow the on-screen menu
