@@ -2,7 +2,7 @@
 
 A simple Python console application to track daily expenses using CSV file storage. It allows users to add, view, delete, and calculate expenses through a menu-driven interface.
 
-✨ Features
+**✨ Features**
 
 ➕ Add expenses with date, category, description, and amount
 
@@ -16,7 +16,7 @@ A simple Python console application to track daily expenses using CSV file stora
 
 🖥️ Simple and user-friendly console interface
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 🐍 Python
 
@@ -24,7 +24,7 @@ A simple Python console application to track daily expenses using CSV file stora
 
 ⚙️ OS Module
 
-⚙️ How It Works
+**⚙️ How It Works**
 
 📂 Stores all expenses in expenses.csv
 
@@ -32,7 +32,7 @@ A simple Python console application to track daily expenses using CSV file stora
 
 🔁 Runs in a loop until the user chooses to exit
 
-▶️ How to Run
+**▶️ How to Run**
 
 🔽 Clone or download the repository
 
